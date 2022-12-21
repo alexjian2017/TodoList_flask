@@ -1,0 +1,4 @@
+# Ignore flask-venv folder
+flask-venv
+# Ignore files related to API keys
+*.env
